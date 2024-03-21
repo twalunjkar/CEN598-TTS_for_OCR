@@ -1,1 +1,1 @@
-# CEN598-Capstone-Project
+# Text-to-Speech (TTS) System for OCR-Generated Text
