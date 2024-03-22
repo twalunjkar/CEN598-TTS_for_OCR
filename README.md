@@ -4,6 +4,10 @@
 - [Hardware Evolution](#hardware-evolution)
 - [Iterative Model Development](#iterative-model-development)
 - [Results](#results)
+- [Demo video](Media/CEN598_Demo.mp4)
+- [Project Documents](Documents)
+    - [Report](Documents/CEN598_Report.pdf)
+    - [Presentation](Documents/CEN598_Presentation.pptx)
 
 ## Introduction
 - Reading challenges are common, especially for the visually impaired. Converting text to audio seamlessly is crucial to making information more accessible and inclusive.
