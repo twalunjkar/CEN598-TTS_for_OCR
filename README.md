@@ -1,5 +1,10 @@
 # Text-to-Speech (TTS) System for OCR-Generated Text
 
+- [Introduction](#introduction)
+- [Hardware Evolution](#hardware-evolution)
+- [Iterative Model Development](#iterative-model-development)
+- [Results](#results)
+
 ## Introduction
 - Reading challenges are common, especially for the visually impaired. Converting text to audio seamlessly is crucial to making information more accessible and inclusive.
 - Text-to-Speech (TTS) System for OCR-Generated Text transforms printed or digital text into audio, addressing the need for quick and easy access to information.
