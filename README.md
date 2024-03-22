@@ -25,3 +25,16 @@
 ## Results
 - Performance Metrics: Achieved OCR accuracy rate of 74% with 'mjsynth' dataset on Raspberry Pi 4.
 - Real-time Demonstration:Live showcase of text-to-audio conversion on Raspberry Pi 4, reinforcing practicality.
+
+![RT](Media/RT_implementation_model.jpg)
+- **Fig 1:** Real time implementation of the model
+---
+
+## References
+- https://paperswithcode.com/dataset/textocr
+- @articleshi2017end, An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene TextRecognition, author=Shi, Baoguang and Bai, Xinggang and Yao, Cong, journal=IEEE Transactions on Pattern Analysis and Machine Intelligence
+(TPAMI), year=2017
+- @articlewang2011end, title=End-to-End Text Recognition with Convolutional Neural Networks, author=Wang, Kai and Babenko, Boris and Belongie, Serge, journal=Proceedings of the International Conference on Document Analysis and Recognition (ICDAR), year=2011
+- @miscJaderberg2014SyntheticDT, title=Synthetic Data for Text Localisation, Recognition and Tracking, author=Max Jaderberg and Karen Simonyan
+and Andrea Vedaldi and Andrew Zisserman, year=2014, eprint=1406.2227, archivePrefix=arXiv, primaryClass=cs.CV
+- @misctext-recognition-github, title = Text Recognition using Deep Learning, howpublished = https://github.com/rjnp2/Text-Recognition-using-Deep-Learning, note = Accessed: December 5, 2023
